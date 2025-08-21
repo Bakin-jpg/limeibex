@@ -1,12 +1,16 @@
-name: Ambil Playlist dengan Python
+name: Ambil dan Publikasikan Playlist
 
 on:
   workflow_dispatch: # Memungkinkan Anda menjalankan workflow ini secara manual
   schedule:
     - cron: '0 */6 * * *' # Menjalankan setiap 6 jam
 
+# Menambahkan izin agar workflow bisa menulis ke repositori
+permissions:
+  contents: write
+
 jobs:
-  fetch_playlist_job:
+  fetch_and_publish_job:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repositori
@@ -15,7 +19,7 @@ jobs:
       - name: Siapkan Python
         uses: actions/setup-python@v4
         with:
-          python-version: '3.x' # Menggunakan versi Python 3 terbaru
+          python-version: '3.x'
 
       - name: Instal dependensi Python
         run: |
@@ -25,8 +29,21 @@ jobs:
       - name: Jalankan skrip Python untuk mengambil playlist
         run: python fetcher.py
 
-      - name: Unggah hasil playlist sebagai artefak
-        uses: actions/upload-artifact@v4
-        with:
-          name: playlist-m3u
-          path: playlist.m3u
+      - name: Commit dan Push file playlist
+        run: |
+          # Konfigurasi identitas git untuk bot
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          
+          # Tambahkan file playlist ke staging area
+          git add playlist.m3u
+          
+          # Cek apakah ada perubahan. Jika ada, lakukan commit dan push.
+          # Ini mencegah error jika file tidak berubah.
+          if ! git diff --staged --quiet; then
+            git commit -m "Update: Perbarui file playlist.m3u"
+            git push
+            echo "File playlist telah diperbarui dan di-push ke repositori."
+          else
+            echo "Tidak ada perubahan pada file playlist. Tidak perlu commit."
+          fi
