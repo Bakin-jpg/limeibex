@@ -1,0 +1,32 @@
+name: Ambil Playlist dengan Python
+
+on:
+  workflow_dispatch: # Memungkinkan Anda menjalankan workflow ini secara manual
+  schedule:
+    - cron: '0 */6 * * *' # Menjalankan setiap 6 jam
+
+jobs:
+  fetch_playlist_job:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repositori
+        uses: actions/checkout@v4
+
+      - name: Siapkan Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.x' # Menggunakan versi Python 3 terbaru
+
+      - name: Instal dependensi Python
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests
+
+      - name: Jalankan skrip Python untuk mengambil playlist
+        run: python fetcher.py
+
+      - name: Unggah hasil playlist sebagai artefak
+        uses: actions/upload-artifact@v4
+        with:
+          name: playlist-m3u
+          path: playlist.m3u
