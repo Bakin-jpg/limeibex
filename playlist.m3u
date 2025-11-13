@@ -9,7 +9,7 @@ http://terabit.web.id/media.mpd?id=112&type=dash
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-#EXTINF:-1 tvg-id="Lokal" group-title="📽LIVE ‎" tvg-logo="https://www.visionplus.id/images/repository/519/581519-SNAPSHOT-m.jpg" ch-number="1", ‎
+#EXTINF:-1 tvg-id="Lokal" group-title="⌛️UPCOMING" tvg-logo="https://www.visionplus.id/images/repository/503/582503-SNAPSHOT-m.jpg" ch-number="1", ‎
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://visplus.caranytv.workers.dev/drm?id=112&type=drm
 #EXTVLCOPT:http-referrer=https://visionplus.id/
@@ -18,7 +18,7 @@ http://terabit.web.id/media.mpd?id=112&type=dash
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-#EXTINF:-1 tvg-id="Lokal" group-title="📽LIVE ‎" tvg-logo="https://www.visionplus.id/images/repository/906/581906-SNAPSHOT-m.jpg" ch-number="2", ‎
+#EXTINF:-1 tvg-id="Lokal" group-title="⌛️UPCOMING" tvg-logo="https://www.visionplus.id/images/repository/521/582521-SNAPSHOT-m.jpg" ch-number="2", ‎
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://visplus.caranytv.workers.dev/drm?id=113&type=drm
 #EXTVLCOPT:http-referrer=https://visionplus.id/
@@ -27,7 +27,7 @@ http://terabit.web.id/media.mpd?id=113&type=dash
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-#EXTINF:-1 tvg-id="Lokal" group-title="📽LIVE ‎" tvg-logo="https://www.visionplus.id/images/repository/538/581538-SNAPSHOT-m.jpg" ch-number="3", ‎
+#EXTINF:-1 tvg-id="Lokal" group-title="⌛️UPCOMING" tvg-logo="https://www.visionplus.id/images/repository/527/582527-SNAPSHOT-m.jpg" ch-number="3", ‎
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://visplus.caranytv.workers.dev/drm?id=1017&type=drm
 #EXTVLCOPT:http-referrer=https://visionplus.id/
@@ -36,25 +36,7 @@ http://terabit.web.id/media.mpd?id=1017&type=dash
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-#EXTINF:-1 tvg-id="Lokal" group-title="⌛️UPCOMING" tvg-logo="https://www.visionplus.id/images/repository/479/581479-SNAPSHOT-m.jpg" ch-number="1", ‎
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://visplus.caranytv.workers.dev/drm?id=123&type=drm
-#EXTVLCOPT:http-referrer=https://visionplus.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-http://terabit.web.id/media.mpd?id=123&type=dash
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#EXTINF:-1 tvg-id="Lokal" group-title="⌛️UPCOMING" tvg-logo="https://www.visionplus.id/images/repository/493/581493-SNAPSHOT-m.jpg" ch-number="2", ‎
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://visplus.caranytv.workers.dev/drm?id=123&type=drm
-#EXTVLCOPT:http-referrer=https://visionplus.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-http://terabit.web.id/media.mpd?id=123&type=dash
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#EXTINF:-1 tvg-id="Lokal" group-title="⌛️UPCOMING" tvg-logo="https://www.visionplus.id/images/repository/733/579733-SNAPSHOT-m.jpg" ch-number="1", ‎
+#EXTINF:-1 tvg-id="Lokal" group-title="⌛️UPCOMING" tvg-logo="https://www.visionplus.id/images/repository/542/582542-SNAPSHOT-m.jpg" ch-number="4", ‎
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://visplus.caranytv.workers.dev/drm?id=112&type=drm
 #EXTVLCOPT:http-referrer=https://visionplus.id/
@@ -63,16 +45,97 @@ http://terabit.web.id/media.mpd?id=112&type=dash
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-#EXTINF:-1 tvg-id="Lokal" group-title="⌛️UPCOMING" tvg-logo="https://www.visionplus.id/images/repository/012/580012-SNAPSHOT-m.jpg" ch-number="2", ‎
+#EXTINF:-1 tvg-id="Lokal" group-title="⌛️UPCOMING" tvg-logo="https://www.visionplus.id/images/repository/571/582571-SNAPSHOT-m.jpg" ch-number="5", ‎
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://visplus.caranytv.workers.dev/drm?id=1017&type=drm
+#KODIPROP:inputstream.adaptive.license_key=https://visplus.caranytv.workers.dev/drm?id=113&type=drm
 #EXTVLCOPT:http-referrer=https://visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-http://terabit.web.id/media.mpd?id=1017&type=dash
+http://terabit.web.id/media.mpd?id=113&type=dash
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-#EXTINF:-1 tvg-id="Lokal" group-title="⌛️UPCOMING" tvg-logo="https://www.visionplus.id/images/repository/067/580067-SNAPSHOT-m.jpg" ch-number="3", ‎
+#EXTINF:-1 tvg-id="Lokal" group-title="⌛️UPCOMING" tvg-logo="https://www.visionplus.id/images/repository/493/581493-SNAPSHOT-m.jpg" ch-number="1", ‎
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://visplus.caranytv.workers.dev/drm?id=123&type=drm
+#EXTVLCOPT:http-referrer=https://visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+http://terabit.web.id/media.mpd?id=123&type=dash
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 tvg-id="Lokal" group-title="⌛️UPCOMING" tvg-logo="https://www.visionplus.id/images/repository/418/582418-SNAPSHOT-m.jpg" ch-number="2", ‎
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://visplus.caranytv.workers.dev/drm?id=123&type=drm
+#EXTVLCOPT:http-referrer=https://visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+http://terabit.web.id/media.mpd?id=123&type=dash
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 tvg-id="Lokal" group-title="⌛️UPCOMING" tvg-logo="https://www.visionplus.id/images/repository/433/582433-SNAPSHOT-m.jpg" ch-number="3", ‎
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://visplus.caranytv.workers.dev/drm?id=123&type=drm
+#EXTVLCOPT:http-referrer=https://visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+http://terabit.web.id/media.mpd?id=123&type=dash
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 tvg-id="Lokal" group-title="⌛️UPCOMING" tvg-logo="https://www.visionplus.id/images/repository/489/582489-SNAPSHOT-m.jpg" ch-number="4", ‎
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://visplus.caranytv.workers.dev/drm?id=123&type=drm
+#EXTVLCOPT:http-referrer=https://visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+http://terabit.web.id/media.mpd?id=123&type=dash
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 tvg-id="Lokal" group-title="⌛️UPCOMING" tvg-logo="https://www.visionplus.id/images/repository/472/582472-SNAPSHOT-m.jpg" ch-number="5", ‎
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://visplus.caranytv.workers.dev/drm?id=123&type=drm
+#EXTVLCOPT:http-referrer=https://visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+http://terabit.web.id/media.mpd?id=123&type=dash
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 tvg-id="Lokal" group-title="⌛️UPCOMING" tvg-logo="https://www.visionplus.id/images/repository/645/582645-SNAPSHOT-m.jpg" ch-number="6", ‎
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://visplus.caranytv.workers.dev/drm?id=123&type=drm
+#EXTVLCOPT:http-referrer=https://visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+http://terabit.web.id/media.mpd?id=123&type=dash
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 tvg-id="Lokal" group-title="⌛️UPCOMING" tvg-logo="https://www.visionplus.id/images/repository/653/582653-SNAPSHOT-m.jpg" ch-number="7", ‎
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://visplus.caranytv.workers.dev/drm?id=123&type=drm
+#EXTVLCOPT:http-referrer=https://visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+http://terabit.web.id/media.mpd?id=123&type=dash
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 tvg-id="Lokal" group-title="⌛️UPCOMING" tvg-logo="https://www.visionplus.id/images/repository/679/582679-SNAPSHOT-m.jpg" ch-number="8", ‎
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://visplus.caranytv.workers.dev/drm?id=123&type=drm
+#EXTVLCOPT:http-referrer=https://visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+http://terabit.web.id/media.mpd?id=123&type=dash
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 tvg-id="Lokal" group-title="⌛️UPCOMING" tvg-logo="https://www.visionplus.id/images/repository/685/582685-SNAPSHOT-m.jpg" ch-number="9", ‎
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://visplus.caranytv.workers.dev/drm?id=123&type=drm
+#EXTVLCOPT:http-referrer=https://visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+http://terabit.web.id/media.mpd?id=123&type=dash
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 tvg-id="Lokal" group-title="⌛️UPCOMING" tvg-logo="https://www.visionplus.id/images/repository/067/580067-SNAPSHOT-m.jpg" ch-number="1", ‎
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://visplus.caranytv.workers.dev/drm?id=112&type=drm
 #EXTVLCOPT:http-referrer=https://visionplus.id/
@@ -81,7 +144,7 @@ http://terabit.web.id/media.mpd?id=112&type=dash
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-#EXTINF:-1 tvg-id="Lokal" group-title="⌛️UPCOMING" tvg-logo="https://www.visionplus.id/images/repository/332/581332-SNAPSHOT-m.jpg" ch-number="4", ‎
+#EXTINF:-1 tvg-id="Lokal" group-title="⌛️UPCOMING" tvg-logo="https://www.visionplus.id/images/repository/332/581332-SNAPSHOT-m.jpg" ch-number="2", ‎
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://visplus.caranytv.workers.dev/drm?id=1017&type=drm
 #EXTVLCOPT:http-referrer=https://visionplus.id/
@@ -90,7 +153,7 @@ http://terabit.web.id/media.mpd?id=1017&type=dash
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-#EXTINF:-1 tvg-id="Lokal" group-title="⌛️UPCOMING" tvg-logo="https://www.visionplus.id/images/repository/625/581625-SNAPSHOT-m.jpg" ch-number="5", ‎
+#EXTINF:-1 tvg-id="Lokal" group-title="⌛️UPCOMING" tvg-logo="https://www.visionplus.id/images/repository/625/581625-SNAPSHOT-m.jpg" ch-number="3", ‎
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://visplus.caranytv.workers.dev/drm?id=1017&type=drm
 #EXTVLCOPT:http-referrer=https://visionplus.id/
@@ -99,7 +162,7 @@ http://terabit.web.id/media.mpd?id=1017&type=dash
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-#EXTINF:-1 tvg-id="Lokal" group-title="⌛️UPCOMING" tvg-logo="https://www.visionplus.id/images/repository/638/581638-SNAPSHOT-m.jpg" ch-number="6", ‎
+#EXTINF:-1 tvg-id="Lokal" group-title="⌛️UPCOMING" tvg-logo="https://www.visionplus.id/images/repository/638/581638-SNAPSHOT-m.jpg" ch-number="4", ‎
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://visplus.caranytv.workers.dev/drm?id=1017&type=drm
 #EXTVLCOPT:http-referrer=https://visionplus.id/
@@ -225,7 +288,16 @@ http://terabit.web.id/media.mpd?id=115&type=dash
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-#EXTINF:-1 tvg-id="Lokal" group-title="⌛️UPCOMING" tvg-logo="https://www.visionplus.id/images/repository/395/581395-SNAPSHOT-m.jpg" ch-number="14", ‎
+#EXTINF:-1 tvg-id="Lokal" group-title="⌛️UPCOMING" tvg-logo="https://www.visionplus.id/images/repository/594/582594-SNAPSHOT-m.jpg" ch-number="14", ‎
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://visplus.caranytv.workers.dev/drm?id=112&type=drm
+#EXTVLCOPT:http-referrer=https://visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+http://terabit.web.id/media.mpd?id=112&type=dash
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 tvg-id="Lokal" group-title="⌛️UPCOMING" tvg-logo="https://www.visionplus.id/images/repository/395/581395-SNAPSHOT-m.jpg" ch-number="15", ‎
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://visplus.caranytv.workers.dev/drm?id=115&type=drm
 #EXTVLCOPT:http-referrer=https://visionplus.id/
@@ -234,7 +306,16 @@ http://terabit.web.id/media.mpd?id=115&type=dash
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-#EXTINF:-1 tvg-id="Lokal" group-title="⌛️UPCOMING" tvg-logo="https://www.visionplus.id/images/repository/586/581586-SNAPSHOT-m.jpg" ch-number="15", ‎
+#EXTINF:-1 tvg-id="Lokal" group-title="⌛️UPCOMING" tvg-logo="https://www.visionplus.id/images/repository/598/582598-SNAPSHOT-m.jpg" ch-number="16", ‎
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://visplus.caranytv.workers.dev/drm?id=112&type=drm
+#EXTVLCOPT:http-referrer=https://visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+http://terabit.web.id/media.mpd?id=112&type=dash
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 tvg-id="Lokal" group-title="⌛️UPCOMING" tvg-logo="https://www.visionplus.id/images/repository/586/581586-SNAPSHOT-m.jpg" ch-number="17", ‎
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://visplus.caranytv.workers.dev/drm?id=115&type=drm
 #EXTVLCOPT:http-referrer=https://visionplus.id/
@@ -243,7 +324,7 @@ http://terabit.web.id/media.mpd?id=115&type=dash
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-#EXTINF:-1 tvg-id="Lokal" group-title="⌛️UPCOMING" tvg-logo="https://www.visionplus.id/images/repository/683/581683-SNAPSHOT-m.jpg" ch-number="16", ‎
+#EXTINF:-1 tvg-id="Lokal" group-title="⌛️UPCOMING" tvg-logo="https://www.visionplus.id/images/repository/683/581683-SNAPSHOT-m.jpg" ch-number="18", ‎
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://visplus.caranytv.workers.dev/drm?id=1017&type=drm
 #EXTVLCOPT:http-referrer=https://visionplus.id/
@@ -252,7 +333,7 @@ http://terabit.web.id/media.mpd?id=1017&type=dash
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-#EXTINF:-1 tvg-id="Lokal" group-title="⌛️UPCOMING" tvg-logo="https://www.visionplus.id/images/repository/942/581942-SNAPSHOT-m.jpg" ch-number="17", ‎
+#EXTINF:-1 tvg-id="Lokal" group-title="⌛️UPCOMING" tvg-logo="https://www.visionplus.id/images/repository/942/581942-SNAPSHOT-m.jpg" ch-number="19", ‎
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://visplus.caranytv.workers.dev/drm?id=113&type=drm
 #EXTVLCOPT:http-referrer=https://visionplus.id/
@@ -261,7 +342,43 @@ http://terabit.web.id/media.mpd?id=113&type=dash
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-#EXTINF:-1 tvg-id="Lokal" group-title="⌛️UPCOMING" tvg-logo="https://www.visionplus.id/images/repository/240/581240-SNAPSHOT-m.jpg" ch-number="1", ‎
+#EXTINF:-1 tvg-id="Lokal" group-title="⌛️UPCOMING" tvg-logo="https://www.visionplus.id/images/repository/772/582772-SNAPSHOT-m.jpg" ch-number="20", ‎
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://visplus.caranytv.workers.dev/drm?id=112&type=drm
+#EXTVLCOPT:http-referrer=https://visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+http://terabit.web.id/media.mpd?id=112&type=dash
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 tvg-id="Lokal" group-title="⌛️UPCOMING" tvg-logo="https://www.visionplus.id/images/repository/817/582817-SNAPSHOT-m.jpg" ch-number="21", ‎
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://visplus.caranytv.workers.dev/drm?id=115&type=drm
+#EXTVLCOPT:http-referrer=https://visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+http://terabit.web.id/media.mpd?id=115&type=dash
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 tvg-id="Lokal" group-title="⌛️UPCOMING" tvg-logo="https://www.visionplus.id/images/repository/800/582800-SNAPSHOT-m.jpg" ch-number="22", ‎
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://visplus.caranytv.workers.dev/drm?id=115&type=drm
+#EXTVLCOPT:http-referrer=https://visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+http://terabit.web.id/media.mpd?id=115&type=dash
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 tvg-id="Lokal" group-title="⌛️UPCOMING" tvg-logo="https://www.visionplus.id/images/repository/792/582792-SNAPSHOT-m.jpg" ch-number="23", ‎‎
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://visplus.caranytv.workers.dev/drm?id=115&type=drm
+#EXTVLCOPT:http-referrer=https://visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+http://terabit.web.id/media.mpd?id=115&type=dash
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 tvg-id="Lokal" group-title="📽LIVE ‎" tvg-logo="https://www.visionplus.id/images/repository/240/581240-SNAPSHOT-m.jpg" ch-number="1", ‎
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://visplus.caranytv.workers.dev/drm?id=124&type=drm
 #EXTVLCOPT:http-referrer=https://visionplus.id/
@@ -423,7 +540,7 @@ http://terabit.web.id/media.mpd?id=120&type=dash
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-#EXTINF:-1 tvg-id="Lokal" group-title="⌛️UPCOMING" tvg-logo="https://www.visionplus.id/images/repository/595/581595-SNAPSHOT-m.jpg" ch-number="1", ‎
+#EXTINF:-1 tvg-id="Lokal" group-title="⌛️UPCOMING" tvg-logo="https://www.visionplus.id/images/repository/720/582720-SNAPSHOT-m.jpg" ch-number="1", ‎
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://visplus.caranytv.workers.dev/drm?id=1011&type=drm
 #EXTVLCOPT:http-referrer=https://visionplus.id/
@@ -432,7 +549,7 @@ http://terabit.web.id/media.mpd?id=1011&type=dash
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-#EXTINF:-1 tvg-id="Lokal" group-title="⌛️UPCOMING" tvg-logo="https://www.visionplus.id/images/repository/615/581615-SNAPSHOT-m.jpg" ch-number="2", ‎
+#EXTINF:-1 tvg-id="Lokal" group-title="⌛️UPCOMING" tvg-logo="https://www.visionplus.id/images/repository/708/582708-SNAPSHOT-m.jpg" ch-number="2", ‎
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://visplus.caranytv.workers.dev/drm?id=1011&type=drm
 #EXTVLCOPT:http-referrer=https://visionplus.id/
@@ -441,10 +558,46 @@ http://terabit.web.id/media.mpd?id=1011&type=dash
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-#EXTINF:-1 tvg-id="Lokal" group-title="⌛️UPCOMING" tvg-logo="https://www.visionplus.id/images/repository/973/581973-SNAPSHOT-m.jpg" ch-number="3", ‎
+#EXTINF:-1 tvg-id="Lokal" group-title="⌛️UPCOMING" tvg-logo="https://www.visionplus.id/images/repository/744/582744-SNAPSHOT-m.jpg" ch-number="3", ‎
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://visplus.caranytv.workers.dev/drm?id=1011&type=drm
+#EXTVLCOPT:http-referrer=https://visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+http://terabit.web.id/media.mpd?id=1011&type=dash
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 tvg-id="Lokal" group-title="⌛️UPCOMING" tvg-logo="https://www.visionplus.id/images/repository/753/582753-SNAPSHOT-m.jpg" ch-number="4", ‎
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://visplus.caranytv.workers.dev/drm?id=1011&type=drm
+#EXTVLCOPT:http-referrer=https://visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+http://terabit.web.id/media.mpd?id=1011&type=dash
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 tvg-id="Lokal" group-title="📽LIVE ‎" tvg-logo="https://www.visionplus.id/images/repository/615/581615-SNAPSHOT-m.jpg" ch-number="1", ‎
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://visplus.caranytv.workers.dev/drm?id=1011&type=drm
+#EXTVLCOPT:http-referrer=https://visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+http://terabit.web.id/media.mpd?id=1011&type=dash
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 tvg-id="Lokal" group-title="⌛️UPCOMING" tvg-logo="https://www.visionplus.id/images/repository/973/581973-SNAPSHOT-m.jpg" ch-number="2", ‎
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://visplus.caranytv.workers.dev/drm?id=113&type=drm
 #EXTVLCOPT:http-referrer=https://visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 http://terabit.web.id/media.mpd?id=113&type=dash
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 tvg-id="Lokal" group-title="⌛️UPCOMING" tvg-logo="https://www.visionplus.id/images/repository/613/582613-SNAPSHOT-m.jpg" ch-number="1", ‎
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://visplus.caranytv.workers.dev/drm?id=122&type=drm
+#EXTVLCOPT:http-referrer=https://visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+http://terabit.web.id/media.mpd?id=122&type=dash
 
